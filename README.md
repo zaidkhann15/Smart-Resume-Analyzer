@@ -138,11 +138,15 @@ streamlit run app.py
 
 ### ATS Analysis
 
-Add screenshot here
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/f529ec5e-ac12-492b-a381-e3fe309fa7f7" />
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/1814ee25-f7f3-49e3-8032-fb03258c1aa5" />
+
 
 ### Resume Preview
 
-Add screenshot here
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/1ea7c901-dd36-4934-a7b3-a624b71153f2" />
+
 
 ---
 
