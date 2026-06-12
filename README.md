@@ -133,7 +133,8 @@ streamlit run app.py
 
 ### Dashboard
 
-Add screenshot here
+<img width="1919" height="808" alt="image" src="https://github.com/user-attachments/assets/b3c5db34-2d2e-4395-b66c-e99d0489d2dd" />
+
 
 ### ATS Analysis
 
