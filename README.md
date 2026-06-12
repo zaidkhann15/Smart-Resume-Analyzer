@@ -206,7 +206,7 @@ Additional points are awarded for sufficient content length.
 
 BE Artificial Intelligence and Data Science
 
-AI & Data Science Enthusiast
+East Point College of Engineering and Technology
 
 ---
 
